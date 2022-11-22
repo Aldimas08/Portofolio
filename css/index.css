@@ -80,6 +80,9 @@
     font-family: uppercase;
     color:blacke;
 }
+.card-text{
+    text-align: justify;
+}
 .text-tu{
     font-size: 1em;
     font-weight: 550;
@@ -121,6 +124,7 @@
 iframe{
     width: 100%;
 }
+
 @media screen and (max-width: 768px){
     .img-brum{
        display: none;
